@@ -1,10 +1,10 @@
-@import url(fonts/clear-sans.css);
+@import url(../fonts/Sans-Source-Pro.css);
 html, body {
   margin: 0;
   padding: 0;
   background: #77f;
-  color: #eee;
-  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  color: #fff;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 18px; }
 
 strong {
@@ -194,7 +194,7 @@ hr {
       margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
-      background: #8f7a66;
+      background: #77f;
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
